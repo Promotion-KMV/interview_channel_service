@@ -1,12 +1,12 @@
 {
   "type": "service_account",
-  "project_id": "optimal-disk-356309",
-  "private_key_id": "69e91c3feac9b2779e43b112cc5b9e12a73937aa",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCL8RmXfKToPjIu\ngPi4dHcuZcZrSKbRf1l/ZMH2wqZ3oiF1HDKFYAFArN3i6x8FHDz1CePNAVHt4Cnc\nI4wmWMtExCH01Ta2CeAEn9slU1CFHr5RX8qmM4PDt0QNVm/c9HtAUxjUFkDpXk+S\nWf7oVByDWw3F8CI2oq6zZxD6+LkmkPzkWF2myEMCGQ+NDsxosDKmohTBvLp2DA7W\nsJvvvYECes/uQZD8xRz9a4U/5XuxKH2Qx9Em4od3Mhb09yqUD+GB7tgzWYaYqDLf\n/apzRyf+lbdm7HK9qRsMfJYaIg13B9Lm1RfoENSSOOsvtckycIrv8h9mM+3r16IO\nenjSIjJhAgMBAAECggEAOCeFN26C1davWE3UgF/ruyiH2GEM36AUj7QkyRoOpo7e\nkhnAhBikKAm19+qVRf2w0DspuAfBkoyS/40cHf8fgfaaEZ7FF4Ma64Ah9fZapzBQ\n+mJP9SVSyGRv4FJBDQ7lrkgp/GD5pyt7DqUiTqQB1QvimPzlHbtmEwNWov7PfRO1\nF2El0Gub6Jubh6HCUHASLkq/AGoZ9TP92RsZF7om3NpNyHjMElh2u36qlcVQ/Ukr\nr9NiZBceMAFz71/N9yImz0HGpBtK+f3KnBzsmvWHK0whOGMs62gUE7VQkwasRXv5\nDupWHovtQ0pVsJrOKyege99ZmhgN33SUmwTh2HCq6QKBgQDBQ4A5x261rBjgkW3F\nxFl592RI3q+rNqj/lhBnC2qIFtDf0edc7lmakfM0VvKxA3zlsKgrr+1H5zCV4Y1g\ngN/vCziFAGa7g/jiV62LLe6bWsEXiI2+PUOqg/6tgtn5fy/c7bSFNQm3bSLgbhVE\n4hS4Tr7dB+DyLyjPe4nGnaDTZwKBgQC5Xni6yDnfYHrWgMQcIkzsI1O0xAahkKvT\nN+T4QcOTg/Czv7Fmgl+Bhk3pVGtMZUNOlXfq255L2ykL8PmOWplajTZ90XKPEHjV\ngf1y+E4c1wqRiMeXmoibHUL5AAhwrcLU3e9JWbPsibniixvJvccBB5IZQUeOJmBm\ncjexFR229wKBgF/Cq5F1kRSxnm3/gU3h+ZfmjilRNef3IIvr9lqonHOsInkUj7hL\nXdiqAsDnaD9vg/5npxxmgoMDOd66MQwlL1BJ1gqI5V56iOLWIOZ6ruUJde3MOreN\nsa6W0qV01b67V6L3oV/zpMnfaM2dnipQf4XHdukcU0iNN4J/Kwhf6GV3AoGAJePd\nobBTxAkgkr/3VhjcyFfgQE7hXB0KQj5mmyg2Je0OQm+of1+ezgb53fvXguIgA+wh\neuwxSygdF8fF+wch2ZSL0uQBGqUvTdUoTVvb+6EpE951jdOUoMA2dFdBYmbiMEi9\nJK0lTfBJArmUkIQuLVOy1V62laPaiJZIM/YxALkCgYAGmqHDVGK23tdZ8YZbGJhF\ngactV8xQPBp8RdvBDsgfYusu8zUobPWmOkMfg2KIXZnAtImCPNfVWvyEeqvqKad3\nh2xRuNxDQ9R9Wtzpj0+snf/ztmQS48ymM+ox2xBtfkb/0slQAteiURsuJDwUt2nP\nlbIeWiTZ+fBIU/F7s0sx0A==\n-----END PRIVATE KEY-----\n",
-  "client_email": "interview@optimal-disk-356309.iam.gserviceaccount.com",
-  "client_id": "100823129400640470192",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/interview%40optimal-disk-356309.iam.gserviceaccount.com"
+  "project_id": "",
+  "private_key_id": "",
+  "private_key": "",
+  "client_email": "",
+  "client_id": "",
+  "auth_uri": "",
+  "token_uri": "",
+  "auth_provider_x509_cert_url": "",
+  "client_x509_cert_url": ""
 }

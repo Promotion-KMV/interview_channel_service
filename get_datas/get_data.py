@@ -31,5 +31,3 @@ def get_data_sheets() -> dict:
 # Получаем курс доллара
 url_cb = 'https://www.cbr-xml-daily.ru/daily_json.js'
 get_exchange_rate = lambda: requests.get(url_cb).json()['Valute']['USD']['Value']
-
-get_data_google_sheets = get_data_sheets()
